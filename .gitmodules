@@ -40,3 +40,6 @@
 [submodule "vim-wakatime"]
 	path = vim-wakatime
 	url = git://github.com/wakatime/vim-wakatime.git
+[submodule "bundle/vim-wakatime"]
+	path = bundle/vim-wakatime
+	url = https://github.com/wakatime/vim-wakatime
